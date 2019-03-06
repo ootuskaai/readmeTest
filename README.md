@@ -22,7 +22,7 @@ Sass can be used from the command line
 or as part of a web framework.
 The first step is to install the gem:
 
-gem install sass
+  gem install sass
 
 After you convert some CSS to Sass, you can run
 
