@@ -9,9 +9,7 @@ issues will be fixed. It will be completely unmaintained as of 26 March 2019.
 See [`the Sass website` 123][] for details, and consider switching to the [`sassc`
 gem][]
 
-this is a [link test].
-
-[link test]: https://www.twitch.tv/
+this is a [link test](https://www.twitch.tv/).
 
 [`the Sass website` 123]: https://sass-lang.com/ruby-sass
 [`sassc` gem]: https://rubygems.org/gems/sassc
