@@ -6,7 +6,7 @@ this is a read me test
 
 Ruby Sass is in a sunset period where only critical bugs and CSS compatibility
 issues will be fixed. It will be completely unmaintained as of 26 March 2019.
-See [the Sass website][] for details, and consider switching to the [`sassc`
+See [the Sass website] for details, and consider switching to the [`sassc`
 gem][]
 
 [the Sass website]: https://sass-lang.com/ruby-sass
