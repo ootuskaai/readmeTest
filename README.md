@@ -24,7 +24,8 @@ The first step is to install the gem:
 
 	gem install sass
 
-After you convert some CSS to Sass, you can run
+After you convert some CSS to Sass, 
+	you can run
 
 Even more powerful than variables,
 mixins allow you to re-use whole chunks of CSS,
