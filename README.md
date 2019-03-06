@@ -2,6 +2,12 @@
 this is a read me test 
 
 
+Even more powerful than variables,
+mixins allow you to re-use whole chunks of CSS,
+properties or selectors.
+You can even give them arguments. 
+
+```scss
 @mixin table-scaffolding {
   th {
     text-align: center;
@@ -19,3 +25,4 @@ this is a read me test
   @include left(10px);
   @include table-scaffolding;
 }
+```
