@@ -25,6 +25,7 @@ The first step is to install the gem:
 	gem install sass
 
 After you convert some CSS to Sass, 
+	
 	you can run
 
 Even more powerful than variables,
