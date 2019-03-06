@@ -21,7 +21,7 @@ mixins allow you to re-use whole chunks of CSS,
 properties or selectors.
 You can even give them arguments. 
 
-```js
+```css
 @mixin table-scaffolding {
   th {
     text-align: center;
