@@ -30,6 +30,9 @@ After you convert some CSS to Sass,
 	
 	you can run
 
+
+You can even give them arguments
+
 Even more powerful than variables,
 mixins allow you to re-use whole chunks of CSS,
 properties or selectors.
