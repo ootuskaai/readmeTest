@@ -11,7 +11,7 @@ h2 have 2 "##" sign
 and so on....
 
 
-# Make link way..
+# Make text link way..
 
 This is a example about readme link.
 We have 2 ways can make links.
@@ -25,7 +25,7 @@ Use the \[ and \] sign cover the link text .
 
 Then use \( and \) sign cover the link's url
 
-It looks like \[ this is link text \]\(www.google.com \). 
+It looks like \[ put the link text in here \]\(url here \). 
 
 You can see the link below the link go to google search.
 
@@ -33,7 +33,9 @@ You can see the link below the link go to google search.
 
 Way 2:
 Make link in separate line. (look like PS).
-This is am example see more here [put the link text in here way 2]
+
+This is am example see more here [put the link text in here way 2].
+
 [put the link text here way 2]:https://www.google.com/
 
 # Make em tag
