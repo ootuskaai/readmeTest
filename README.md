@@ -35,8 +35,8 @@ Way 2:
 Make link in separate line. (look like PS).
 
 This is am example see more here [put the link text in here way 2].
-
 [put the link text here way 2]:https://www.google.com/
+
 
 # Make em tag
 
