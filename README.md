@@ -17,11 +17,17 @@ This is a example about readme link.
 We have 2 ways can make links.
 
 Way 1:
-Use the \[ sing 
+Make link in one line.
+
+Use the \[ and \] sign cover the link text .
+\[ put the link text in here \] 
+Then use \( and \) cover the link url
+You can see the link below the link go to google search.
 [put the link text in here ](https://www.google.com/).
 
 Way 2:
-This is am example see more here [put the link text in here way 2] ...and....so on..
+Make link in separate line. (look like PS).
+This is am example see more here [put the link text in here way 2]
 [put the link text here way 2]:https://www.google.com/
 
 # Make em tag
@@ -36,22 +42,6 @@ Way 2:
 And this em tag can use in the link content
 ['This is a link jave gray background'](https://www.google.com/).
 
-
-
-
-Ruby Sass is in a sunset period where only critical bugs and CSS compatibility
-issues will be fixed. It will be completely unmaintained as of 26 March 2019.
-See [`the Sass website` 123][] for details, and consider switching to the [`sassc`
-gem][]
-
-this is a [link test](https://www.twitch.tv/).
-
-[`the Sass website` 123]: https://sass-lang.com/ruby-sass
-[`sassc` gem]: https://rubygems.org/gems/sassc
-
-# title 1
-
-# title 2 
 
 ## Using
 
