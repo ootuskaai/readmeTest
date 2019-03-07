@@ -20,9 +20,15 @@ Way 1:
 Make link in one line.
 
 Use the \[ and \] sign cover the link text .
+
 \[ put the link text in here \] 
-Then use \( and \) cover the link url
+
+Then use \( and \) sign cover the link's url
+
+It looks like \[ this is link text \]\(www.google.com \). 
+
 You can see the link below the link go to google search.
+
 [put the link text in here ](https://www.google.com/).
 
 Way 2:
