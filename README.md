@@ -1,8 +1,39 @@
 # readmeTest
 this is a read me test 
 
+# H1 title have 1 "#" sign
+This is a way to make a h1~h6 tag
+h1 have 1 "#"sign
+h2 have 2 "##" sign 
+and so on....
 
-## h2 title have 2 "##" sign
+
+# Make link way..
+
+This is a example about readme link.
+We have 2 ways can make links.
+
+Way 1:
+[put the link text in here ](https://www.google.com/).
+
+Way 2:
+This is am example see more here [put the link text in here way 2] ...and....so on..
+[put the link text here way 2]:https://www.google.com/
+
+# Make em tag
+
+In this example here we will show how to make am `em tag` here
+now u can see the content "em tag" have a gary background..
+
+Way 1: 
+You need to use "\`"sign to cover you want to have content..
+
+Way 2:
+And this em tag can use in the link content
+['This is a link jave gray background'](https://www.google.com/).
+
+
+
 
 Ruby Sass is in a sunset period where only critical bugs and CSS compatibility
 issues will be fixed. It will be completely unmaintained as of 26 March 2019.
