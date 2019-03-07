@@ -17,6 +17,7 @@ This is a example about readme link.
 We have 2 ways can make links.
 
 Way 1:
+Use the \[ sing 
 [put the link text in here ](https://www.google.com/).
 
 Way 2:
