@@ -32,7 +32,7 @@ You can see the link below the link go to google search.
 
 [put the link text in here ](https://www.google.com/).
 
-## Way 2: Make link in separate line. (look like PS).
+## Way 2: Make text link in separate line. (look like PS).
 
 Use the \[ and \] sign cover the link text .
 
@@ -63,7 +63,7 @@ Now you can see the content "em tag" have a gary background..
 
 Way 1: 
 
-You need to use "\`"sign to cover you want to have content..
+You need to use \`sign to cover you want to have content..
 
 Way 2:
 
@@ -100,7 +100,7 @@ this is code 1..
 \`\`\`
 
 
-```css
+```scss
 @mixin table-scaffolding {
   th {
     text-align: center;
