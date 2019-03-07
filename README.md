@@ -1,5 +1,5 @@
-# readmeTest
-this is a read me test 
+# Read me Example
+The is a read me example.
 
 # H1 title have 1 "#" sign
 This is a way to make a h1~h6 tag.
@@ -34,7 +34,20 @@ You can see the link below the link go to google search.
 Way 2:
 Make link in separate line. (look like PS).
 
-This is am example see more here [put the link text in here way 2].
+Use the \[ and \] sign cover the link text .
+
+\[put the link text here way 2\].
+
+Then alternate it in different line.
+
+And use \: sign after the link text.
+
+It look like this: \[put the link text here way 2\]\:url here .
+
+You can see the link below the link go to google search.
+
+[put the link text here way 2]
+
 [put the link text here way 2]:https://www.google.com/
 
 
