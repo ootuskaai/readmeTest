@@ -1,4 +1,4 @@
-# Read me Example
+# Read me example
 The is a read me example.
 
 # H1 title have 1 "#" sign
