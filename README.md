@@ -2,9 +2,12 @@
 this is a read me test 
 
 # H1 title have 1 "#" sign
-This is a way to make a h1~h6 tag
+This is a way to make a h1~h6 tag.
+
 h1 have 1 "#"sign
+
 h2 have 2 "##" sign 
+
 and so on....
 
 
