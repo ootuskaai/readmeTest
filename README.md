@@ -16,7 +16,7 @@ and so on....
 This is a example about readme link.
 We have 2 ways can make links.
 
-## Way 1: Make link in one line.
+## Way 1: Make text link in one line.
 
 Use the \[ and \] sign cover the link text .
 
